@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "gold_coin",
+  "ingredients": [
+    "#coins:ibo_coin"
+  ],
+  "result": {
+    "count": 9,
+    "id": "coins:gold_coin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s https://api.github.com/repos/GMalvestiti/Coins/git/trees/fabric/26.1?recursive=1)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/registry/CoinId.java')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/registry/CoinsItem.java')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/registry/CoinsTag.java')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/Coins.java')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/datagen/CoinsDataGenerator.java')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/datagen/provider/CoinsBrazilianPortugueseLanguageProvider.java')",
+      "Bash(curl -s 'https://raw.githubusercontent.com/GMalvestiti/Coins/fabric/26.1/src/main/java/net/riser876/coins/datagen/provider/CoinsEnglishLanguageProvider.java')"
+    ]
+  }
+}
